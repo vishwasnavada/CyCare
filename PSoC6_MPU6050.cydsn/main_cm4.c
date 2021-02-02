@@ -16,8 +16,8 @@
 int16_t CAX, CAY, CAZ; //current acceleration values
 int16_t CGX, CGY, CGZ; //current gyroscope values
 int16_t Breath_rate;
-int16_t upper_threshold = 152;
-int16_t lower_threshold = -58;
+int16_t upper_threshold = 45351;
+int16_t lower_threshold = 15536;
 
 
 int main(void)
