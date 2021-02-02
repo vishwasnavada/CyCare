@@ -1,0 +1,12 @@
+# PSoC6_MPU6050
+# 2021-02-01 18:42:07Z
+
+dont_use_location BLE -1 -1 0
+dont_use_location p4blecell -1 -1 0
+set_location "ClockGenBlock" CLK_GEN -1 -1 0
+set_io "CY_CPUSS_SWJ_SWCLK_TCLK(0)" iocell 6 7
+set_io "CY_CPUSS_SWJ_SWDIO_TMS(0)" iocell 6 6
+set_io "\I2C_MPU6050:scl(0)\" iocell 6 0
+set_io "\I2C_MPU6050:sda(0)\" iocell 6 1
+set_io "\UART:tx(0)\" iocell 5 1
+set_io "\UART:rx(0)\" iocell 5 0

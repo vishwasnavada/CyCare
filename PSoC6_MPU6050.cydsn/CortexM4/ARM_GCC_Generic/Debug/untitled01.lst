@@ -1,0 +1,71 @@
+ARM GAS  C:\Users\hima\AppData\Local\Temp\ccWOFXaH.s 			page 1
+
+
+   1              		.syntax unified
+   2              		.cpu cortex-m4
+   3              		.eabi_attribute 27, 1
+   4              		.fpu fpv4-sp-d16
+   5              		.eabi_attribute 20, 1
+   6              		.eabi_attribute 21, 1
+   7              		.eabi_attribute 23, 3
+   8              		.eabi_attribute 24, 1
+   9              		.eabi_attribute 25, 1
+  10              		.eabi_attribute 26, 1
+  11              		.eabi_attribute 30, 1
+  12              		.eabi_attribute 34, 1
+  13              		.eabi_attribute 18, 4
+  14              		.thumb
+  15              		.file	"untitled01.c"
+  16              		.text
+  17              	.Ltext0:
+  18              		.cfi_sections	.debug_frame
+  19              	.Letext0:
+  20              		.section	.debug_line,"",%progbits
+  21              	.Ldebug_line0:
+  22              		.section	.debug_str,"MS",%progbits,1
+  23              	.LASF0:
+  24 0000 433A5C55 		.ascii	"C:\\Users\\hima\\OneDrive - Cypress Semiconductor\\"
+  24      73657273 
+  24      5C68696D 
+  24      615C4F6E 
+  24      65447269 
+  25 002f 48696D61 		.ascii	"Hima\\MyCases\\Q1-18\\I2S PSoC6\\HA700_ver2\\HA700_"
+  25      5C4D7943 
+  25      61736573 
+  25      5C51312D 
+  25      31385C49 
+  26 005d 76657232 		.ascii	"ver2\\Design01.cydsn\000"
+  26      5C446573 
+  26      69676E30 
+  26      312E6379 
+  26      64736E00 
+  27              	.LASF1:
+  28 0071 474E5520 		.ascii	"GNU C 4.9.3 20150303 (release) [ARM/embedded-4_9-br"
+  28      4320342E 
+  28      392E3320 
+  28      32303135 
+  28      30333033 
+  29 00a4 616E6368 		.ascii	"anch revision 221220] -mcpu=cortex-m4 -mfloat-abi=s"
+  29      20726576 
+  29      6973696F 
+  29      6E203232 
+  29      31323230 
+  30 00d7 6F667466 		.ascii	"oftfp -mfpu=fpv4-sp-d16 -mthumb -g -Og -ffunction-s"
+  30      70202D6D 
+  30      6670753D 
+  30      66707634 
+  30      2D73702D 
+  31 010a 65637469 		.ascii	"ections -ffat-lto-objects\000"
+  31      6F6E7320 
+  31      2D666661 
+ARM GAS  C:\Users\hima\AppData\Local\Temp\ccWOFXaH.s 			page 2
+
+
+  31      742D6C74 
+  31      6F2D6F62 
+  32              	.LASF2:
+  33 0124 756E7469 		.ascii	"untitled01.c\000"
+  33      746C6564 
+  33      30312E63 
+  33      00
+  34              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.9.3 20150303 (release) [ARM/embedded-4_9-br

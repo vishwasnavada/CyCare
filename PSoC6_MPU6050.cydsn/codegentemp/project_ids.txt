@@ -1,0 +1,8 @@
+C:\Users\Vishwas\Downloads\Chrome\Project___Dependencies (1)\Project + Dependencies\PSoC6_MPU6050.cydsn\PSoC6_MPU6050.cyprj|870060a8-82e8-4a36-81f2-9100bd873948
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|e1513fae-9740-4546-8b7b-bc7ab67974af
+C:\Users\Vishwas\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|9d967420-990c-4842-8a09-1dd1dabee83e
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|811a7362-10a4-4136-8f8c-d411e34f104d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1a5e61d8-4a04-49ca-8254-da3ff73cca94
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|17d8b377-bd6c-4b0e-a9ae-a81b499291f8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|95364a19-f22c-45cb-8e35-d97c1e58f21f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\dev\psoc6\PSoC6AnalogDevice\PSoC6AnalogDevice.cydsn\PSoC6AnalogDevice.cyprj|deb2e2f4-ae4f-4fe6-a1f2-09ef89cb8198
